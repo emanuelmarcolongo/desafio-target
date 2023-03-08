@@ -73,3 +73,15 @@ function question4 () {
 
 question4 ();
 
+
+function question5 (string) {
+    let result = "";
+
+    for (let i = string.length -1; i >= 0; i--) {
+        result = result+string[i]
+    }
+
+    console.log(result);
+}
+
+question5 ("contrario")
