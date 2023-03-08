@@ -63,3 +63,13 @@ function question3 () {
 }
 
 question3();
+
+
+
+
+function question4 () {
+    console.log(`Questão 4: Quando dois veículos se cruzam numa rodovia, os dois estão na mesma posição da rodovia (vendo a mesma placa de KM: X), ou seja, considerando a rodovia como trajeto, eles estarão a mesma distância de qualquer ponto da rodovia só que em sentidos opostos`)
+}
+
+question4 ();
+
