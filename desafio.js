@@ -81,7 +81,7 @@ function question5 (string) {
         result = result+string[i]
     }
 
-    console.log(result);
+    console.log(string, 'ao contrário fica: ',result);
 }
 
 question5 ("contrario")
