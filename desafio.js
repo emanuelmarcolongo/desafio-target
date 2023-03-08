@@ -35,3 +35,31 @@ function question2 (numero) {
 
 question2 (6);
 question2 (34);
+
+// // Questão 3: Descubra a lógica e complete o próximo elemento: 
+
+// a) 1, 3, 5, 7, r:9   n+2  
+
+// b) 2, 4, 8, 16, 32, 64, r:128  n*2
+
+// c) 0, 1, 4, 9, 16, 25, 36, r:49  7^2
+
+// d) 4, 16, 36, 64, r:100  -> 2^2, 4^2, 6^2, 8^2, 10^2
+
+// e) 1, 1, 2, 3, 5, 8, r:13  fibonacci
+
+// f) 2,10, 12, 16, 17, 18, 19, r:20   uma função que cresce e quanto mais se aproxima do limite menos cresce?
+
+
+function question3 () {
+    console.log('QUESTÃO 3:')
+    console.log(`a)  9`)
+     console.log(`b)  128`)
+      console.log(`c)  49`)
+       console.log(`d)  100`)
+        console.log(`e)  13 `)
+         console.log(`f)  20`)
+
+}
+
+question3();
